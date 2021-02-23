@@ -57,4 +57,15 @@ public class TemperatureViewController{
       viewHandler.openView("temperature2");
    }
 
+   public void tdowntdown(ActionEvent actionEvent) {
+
+
+
+   }
+
+   public void tuptup(ActionEvent actionEvent) {
+
+
+
+   }
 }
